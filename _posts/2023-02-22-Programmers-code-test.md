@@ -1,11 +1,8 @@
 ---
 layout: post
 title: Programmers Code Test
+
 ---
-
-## *Programmers Code Test*
-
-
 
 - 약수의 합
 
