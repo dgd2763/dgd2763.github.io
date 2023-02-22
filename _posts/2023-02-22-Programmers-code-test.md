@@ -1,3 +1,6 @@
+layout: post
+title: What's Jekyll?
+
 ## *Programmers Code Test*
 
 
@@ -29,7 +32,7 @@
 
 
 
-```
+```java
 class Solution {
     public int solution(int n) {
         int answer = 0;
