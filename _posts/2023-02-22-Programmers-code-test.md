@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Programmers Code Test - Lv1.약수의 합
-tags: 'CodeTest','Programmers'
-category: CodeTest
 
 ---
 
