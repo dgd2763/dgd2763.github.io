@@ -32,6 +32,8 @@ title: What's Jekyll?
 
 
 
+###### 풀이
+
 ```java
 class Solution {
     public int solution(int n) {
