@@ -1,7 +1,7 @@
 ---
-layout : post
-title : Programmers Code Test - Lv1.짝수와 홀수
-category : codetest
+layout: post
+title: Programmers Code Test - Lv1.짝수와 홀수
+category: codetest
 tag: '코드테스트','프로그래머스'
 ---
 
