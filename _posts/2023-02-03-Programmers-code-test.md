@@ -18,3 +18,15 @@ tag: '코드테스트','프로그래머스'
 |3   |"Odd"|
 |4	 |"Even"|
 | | |
+
+**풀이**
+
+```java
+class Solution {
+    public String solution(int num) {
+        String answer = num%2==0?"Even":"Odd";
+        return answer;
+    }
+}
+```
+
