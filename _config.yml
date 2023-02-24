@@ -4,8 +4,6 @@ tagline:             'Newest Developer'
 description:         '초급 개발자 윤희영 기술 블로그 by Git'
 url:                 https://dgd2763.github.io
 baseurl:             ''
-category_dir:        /category
-tag_dir:             /tag
 paginate:            5
 permalink:           pretty
 
@@ -15,6 +13,8 @@ author:
   url:               ''
   email:             dgd2763@naver.com
 
+category_dir:        category/
+tag_dir:             tag/
 # Gems
 plugins:
   - jekyll-paginate
