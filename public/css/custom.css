@@ -7,7 +7,7 @@
   padding: 0 10px;
   font-size: 12px;
   color: #000;
-  background-color: #bbb;
+  background-color: #c6e0dc;
   border-radius: 50%;
   transition: 0.5s ease-in-out;
 }
@@ -22,5 +22,5 @@
 }
 
 .tags-cloud > div{
-  background: #202020;
+  background: #75b5aa;
 }
