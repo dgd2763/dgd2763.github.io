@@ -3,7 +3,6 @@ layout: post
 title: Programmers Code Test - Lv1.약수의 합
 category: codetest
 tag: 코드테스트
-
 ---
 
 **문제 설명**
