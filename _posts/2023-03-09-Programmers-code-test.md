@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Programmers Code Test - Lv1.문자열을 정수로 바꾸기
+title: Programmers Code Test - Lv1.정수 내림차순으로 배치하기
 category: codetest
 tag: 코드테스트
 ---
