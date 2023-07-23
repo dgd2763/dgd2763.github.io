@@ -1,19 +1,14 @@
 
 public class Solution {
-    public static int[] solution(String s) {
-        int count = 0;
-		int zeroToEmpty = 0;
-		while(!s.equals("1")) {
-			zeroToEmpty += s.length()-s.replaceAll("0", "").length();
-			s.replaceAll("0", "");
-			s = Integer.toBinaryString(s.length());
-			count++;
-		}
-		int[] answer = new int[]{count,zeroToEmpty};
-        return answer;
+    public static int solution() {
+        int n=512,i=0,x=0;
+		for(i=1;i<=512;i++){
+			x+=n/i; System.out.println(x);
+		} 
+		return 0;
     }
 
 	public static void main(String[] args){
-		System.out.println(123);
+		solution();
 	}
 }
